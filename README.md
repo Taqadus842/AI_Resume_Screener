@@ -61,4 +61,3 @@ The goal of this project is to reduce manual resume screening time by automatica
 6. The system generates candidate rankings and feedback.
 
 
-## Project Structure
